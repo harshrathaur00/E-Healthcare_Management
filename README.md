@@ -33,7 +33,7 @@ Things to do :
 ● Patients can view/manage their appointments.
 ● Doctors can view/manage their schedules/appointments.
 
-4. Technology to use
+4. Technology to use 
 ● Java for Backend programming
 ● SQL as database
 ● Use cache for fast read operation
