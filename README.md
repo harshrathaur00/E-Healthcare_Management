@@ -18,8 +18,8 @@ healthcare management system. It will allow for the smooth management of hospita
 Things to do :
 
 1 . Registration
-● Allowed profiles : Patient, Doctor, ADMIN(optional)
-● CRUD Data for profiles
+* Allowed profiles : Patient, Doctor, ADMIN(optional)
+* CRUD Data for profiles
 
 2 . Scheduling and Appointment
 ● Patient book/cancel an appointment.
